@@ -6,7 +6,9 @@ A guide for soccer stadiums around the world. Next time you travel think about w
 
 
 ### Getting Started
+ Here is my link on Netlify
 
+ https://sleepy-kare-85fd68.netlify.app/
 
 
 ### Technologies Used in Application
