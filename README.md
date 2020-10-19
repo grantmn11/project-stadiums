@@ -7,7 +7,7 @@ A guide for soccer stadiums around the world. Next time you travel think about w
 
 ### Getting Started
 
-Add link here
+
 
 ### Technologies Used in Application
 
@@ -20,8 +20,7 @@ Add link here
 
 ### Final Project
 
-Final Product
-screenshot?
+
 
 
 ### Future Improvements
@@ -30,4 +29,3 @@ screenshot?
 - Things to do before match or after
 - Link to buying tickets or tours
 - Create log in and log out
-- 
