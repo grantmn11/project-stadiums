@@ -20,8 +20,7 @@ Add link here
 
 ### Final Project
 
-
-
+![Project 1 Screenshot](https://user-images.githubusercontent.com/69698724/96489040-bc5f0100-11f3-11eb-8d79-73e816b4e5f8.png)
 
 
 
