@@ -36,7 +36,7 @@ function handleData(evt){
 }
 //Render call
 function render(){
-    $stadiumPic.text('Here is the teamname: ' + stadiumData.teams[0].strStadium);
+    $stadiumPic.text('Here is the stadium name: ' + stadiumData.teams[0].strStadium);
     $location.text('Here is the address: ' + stadiumData.teams[0].strStadiumLocation);
     $website.text(`Here is the website for stadium tours: ` + stadiumData.teams[0].strWebsite);
     $league.text('League details: ' + stadiumData.teams[0].strLeague);
